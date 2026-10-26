@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm BitByBit.
+
+Please visit [my website](bitbybit.dpdns.org) and [my blog](blog.bitbybit.dpdns.org)!
+
+You can contact me by joining my [qq group](https://qm.qq.com/q/nnIfx3vWOA).
+
 <!--
 **BitByBitG/BitByBitG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
